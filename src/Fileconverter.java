@@ -10,7 +10,8 @@ import java.io.FileNotFoundException;
  */
 public class Fileconverter{
     /**
-     * @param wordArray stores the file before splitting
+     * stores the file before splitting
+     * @param wordArray
      */
     public static ArrayList<String> wordArray;
 
@@ -35,7 +36,7 @@ public class Fileconverter{
     }
 
     /**
-     *
+     * The HTML file of the poem
      * @param poem
      * @param resultsRange
      * @throws FileNotFoundException
@@ -95,7 +96,7 @@ public class Fileconverter{
     }
 
     /**
-     *
+     * The Starting point of the program
      * @param args
      */
     public static void main(String[] args) {

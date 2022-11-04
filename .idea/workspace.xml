@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7479a3-b8e8-4ebe-933a-d3747dde7160" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fileconverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fileconverter.java" afterDir="false" />
+    <list default="true" id="9e7479a3-b8e8-4ebe-933a-d3747dde7160" name="Changes" comment="First Javadoc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667494500898</updated>
-      <workItem from="1667494502816" duration="1084000" />
+      <workItem from="1667494502816" duration="2606000" />
     </task>
+    <task id="LOCAL-00001" summary="First Javadoc">
+      <created>1667495809087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667495809087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Javadoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Javadoc" />
   </component>
 </project>
