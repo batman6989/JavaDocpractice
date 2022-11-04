@@ -3,23 +3,26 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
- * File converter takes in a html and counts the frequency of each word.
  * @author Johnny Bienaime
  * @version 1.0
  *
  */
+
+/**
+ * File converter takes in a html and counts the frequency of each word.
+ * @parm Fileconverter
+ */
 public class Fileconverter{
     /**
-     * stores the file before splitting
+     * stores the HTML file before splitting
      * @param wordArray
      */
     public static ArrayList<String> wordArray;
 
-
     /**
-     *
+     * The method that sorts the split
      * @param sortedWord
-     * @return
+     *
      */
     public static List<String> sort(List<String> sortedWord) {
         Collections.sort(sortedWord, new Comparator<String>() {
@@ -38,6 +41,8 @@ public class Fileconverter{
     /**
      * The HTML file of the poem
      * @param poem
+     *
+     * The range of sorted words to display
      * @param resultsRange
      * @throws FileNotFoundException
      */
