@@ -44,6 +44,8 @@ public class Fileconverter{
      *
      * The range of sorted words to display
      * @param resultsRange
+     *
+     * When the file can't be found
      * @throws FileNotFoundException
      */
     public static void textT(File poem, int resultsRange) throws FileNotFoundException {
